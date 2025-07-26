@@ -3,6 +3,14 @@
 ## Proposta:
 Sistema de pagamento que permite combinar múltiplas formas de pagamento (Pix + Cartão, 2 cartões, etc.) para uma única compra. Além disso, poderemos rastrear conexões entre pessoas, contas e dispositivos, detectando assim fraudes em rede (ex: triangulações, contas laranja)
 
+## Integrantes da Equipe
+- Renato Borges Freitas
+- Lacê Renê Gomes Ferreira Silva
+- Luan de Oliveira Farias Santos
+- Gabriel Anderson Soledade de Santana
+- Marcelo Valada
+- Pedro Leal
+
 ## Exemplo de Fluxo:
 1. Cliente vai ao checkout do e-commerce.
 2. Clica em "Pagamento dividido".
